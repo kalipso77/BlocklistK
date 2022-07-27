@@ -1,6 +1,12 @@
 # This is my personal experiment in blocking useless domains for the purpose of Internet exploration and navigation 
 # including advertisements, trackers and other annoying elements
 
+# Italy
+
+# EBAY
+ebayrtm.com
+rover.ebay.it
+
 # YANDEX
 yastatic.net
 
@@ -10,6 +16,9 @@ amazonaws.com
 amazonaax.com
 amazonclix.com
 assoc-amazon.com
+amazon.com
+unagi.amazon.it
+unagi-eu.amazon.com
 
 # GOOGLE
 googletagservices.com
@@ -46,6 +55,13 @@ gigya.com
 adobedtm.com
 omtrdc.net
 demdex.net
+mpianalytics.com
+privacy-center.org
+sentry.io
+kameleoon.eu
+pepita.io
+cookielaw.org
+tripadvisor.com
 
 # EXPERIMENTAL
 branch.io
@@ -68,6 +84,8 @@ doubleangels.com
 opentech.com
 liu.se
 
+# ebay
+ns1p.com
 
 # facebook
 fbsbx.com
