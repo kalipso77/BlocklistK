@@ -3,4 +3,34 @@
 
 # For the time being available for 'uBlock Origin'
 
-||googletagservices.com^
+# YANDEX
+yastatic.net
+
+# AMAZON
+amazon-adsystem.com
+
+# GOOGLE
+googletagservices.com
+googletagmanager.com
+google-analytics.com
+imrworldwide.com
+doubleclick.net
+googleadservices.com
+google.cn
+dns.google.com
+dl.google.com
+app-measurement.com
+
+#OPPO
+heytapmobile.com
+heytapdl.com
+
+# FACEBOOK
+graph.facebook.com
+
+wbtrk.net
+wbtrk.com
+thedise.me
+
+# EXPERIMENTAL
+
