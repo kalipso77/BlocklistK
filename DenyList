@@ -5,6 +5,22 @@
 
 # MICROSOFT
 measure.office.com
+bing.com * block
+googleusercontent.com
+msauth.net
+svc.ms
+afd-k-acdc-direct.office.com
+loki.delve.office.com
+lpcres.delve.office.com
+ecs.office.com
+config.fp.measure.office.com
+eba2edf301fb7ff2e5ba4db29d97b456.fp.measure.office.com
+upload.fp.measure.office.com
+upload2.fp.measure.office.com
+substrate.office.com
+webshell.suite.office.com
+windows.net
+azureedge.net
 
 # EBAY
 ebayrtm.com
