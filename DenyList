@@ -1,13 +1,15 @@
 # This is my personal experiment in blocking useless domains for the purpose of Internet exploration and navigation 
 # including advertisements, trackers and other annoying elements
 
-# For the time being available for 'uBlock Origin'
-
 # YANDEX
 yastatic.net
 
 # AMAZON
 amazon-adsystem.com
+amazonaws.com
+amazonaax.com
+amazonclix.com
+assoc-amazon.com
 
 # GOOGLE
 googletagservices.com
@@ -20,17 +22,53 @@ google.cn
 dns.google.com
 dl.google.com
 app-measurement.com
+ocsp.pki.goog
+google.com
+google.eu
 
 #OPPO
 heytapmobile.com
 heytapdl.com
+allawnos.com
 
 # FACEBOOK
 graph.facebook.com
+analytics.facebook.com
+ads.facebook.com
 
+# VARIOUS
+mouseflow.com
 wbtrk.net
 wbtrk.com
 thedise.me
+demdex.net
+gigya.com
+adobedtm.com
+omtrdc.net
+demdex.net
 
 # EXPERIMENTAL
+branch.io
+tfbnw.net
+rubiconproject.com
+poshwoosh.com
+adjust.com
+webtrekk.net
+here.com
+usehero.com
+adclink.xyz
+generalmagic.com
+is.r3f.technology
+krxd.com
+taboola.com
+aapi.shouldianswer.net
+tradedoubler.com
+static.nexilia.it
+doubleangels.com
+opentech.com
+liu.se
+
+
+# facebook
+fbsbx.com
 
