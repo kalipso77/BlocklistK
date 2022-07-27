@@ -34,6 +34,8 @@ app-measurement.com
 ocsp.pki.goog
 google.com
 google.eu
+gstatic.com
+googleusercontent.com
 
 #OPPO
 heytapmobile.com
@@ -44,6 +46,7 @@ allawnos.com
 graph.facebook.com
 analytics.facebook.com
 ads.facebook.com
+facebook.net
 
 # VARIOUS
 mouseflow.com
@@ -65,6 +68,8 @@ tripadvisor.com
 a.gedidigital.it
 hits-i.iubenda.com
 safetag.com
+quantcast.com
+zencdn.net
 
 # EXPERIMENTAL
 branch.io
